@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm trying to " $\textcolor{green}{GREEN\ UP}$ " github
+
 ![Alt Text](https://github.com/semakol/semakol/blob/main/semakol.gif)
 <!--
 **semakol/semakol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
